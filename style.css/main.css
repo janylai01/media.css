@@ -1,0 +1,25 @@
+.square  {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.rectangle {
+    height: 100px;
+    width: 200px;
+    background-color: magenta;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    background-color: black;
+}
+
+.oval {
+    height: 100px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: yellow;
+}
